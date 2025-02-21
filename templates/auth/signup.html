@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Signup</title>
+<style>
+body { font-family: sans-serif; margin: 20px; }
+label { display: block; margin: 5px 0 2px; }
+input { margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<h1>Signup</h1>
+<form action="/signup" method="post" enctype="multipart/form-data">
+  <label>Email:</label>
+  <input type="email" name="email" placeholder="Enter your email" required>
+  <label>Full Name:</label>
+  <input type="text" name="full_name" placeholder="Enter your full name" required>
+  <label>Password:</label>
+  <input type="password" name="password" placeholder="Enter a password" required>
+  <label>Photo (optional):</label>
+  <input type="file" name="photo">
+  <button type="submit">Register</button>
+</form>
+</body>
+</html>

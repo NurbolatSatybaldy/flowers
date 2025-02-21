@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cart</title>
+<style>
+body { font-family: sans-serif; margin: 20px; }
+</style>
+</head>
+<body>
+<h1>Cart</h1>
+{% if items %}
+<ul>
+{% for item in items %}
+<li>ID: {{ item.id }}, Name: {{ item.name }}, Price: ${{ item.price }}</li>
+{% endfor %}
+</ul>
+<p>Total: ${{ total }}</p>
+<form action="/purchased" method="post">
+<button type="submit">Purchase</button>
+</form>
+{% else %}
+<p>Your cart is empty.</p>
+{% endif %}
+<a href="/flowers">Back to Flowers</a>
+</body>
+</html>

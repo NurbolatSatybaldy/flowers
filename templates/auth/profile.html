@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Profile</title>
+<style>
+body { font-family: sans-serif; margin: 20px; }
+</style>
+</head>
+<body>
+<h1>User Profile</h1>
+<p>ID: {{ user.id }}</p>
+<p>Email: {{ user.email }}</p>
+<p>Full Name: {{ user.full_name }}</p>
+{% if user.photo_url %}
+<p><img src="{{ user.photo_url }}" width="100"></p>
+{% endif %}
+<a href="/flowers">Flowers</a> |
+<a href="/cart/items">Cart</a> |
+<a href="/purchased">Purchased</a>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Flowers</title>
+<style>
+body { font-family: sans-serif; margin: 20px; }
+form { margin-bottom: 20px; }
+</style>
+</head>
+<body>
+<h1>Flowers</h1>
+<form action="/flowers" method="post">
+  <input type="text" name="name" placeholder="Name" required>
+  <input type="number" name="quantity" placeholder="Quantity" required>
+  <input type="number" step="0.01" name="price" placeholder="Price" required>
+  <button type="submit">Add Flower</button>
+</form>
+<ul>
+{% for f in flowers %}
+<li>{{ f.name }} (Qty: {{ f.quantity }}, ${{ f.price }})
+<form action="/cart/items" method="post" style="display:inline;">
+  <input type="hidden" name="flower_id" value="{{ f.id }}">
+  <button type="submit">Add to Cart</button>
+</form>
+</li>
+{% endfor %}
+</ul>
+<a href="/cart/items">View Cart</a>
+</body>
+</html>
