@@ -1,30 +1,31 @@
-alembic @ file:///home/nurbolat/.cache/pypoetry/artifacts/44/72/89/2e51f36422a719efd1b244ee0846f944e7ea41bcc6f25e322b6271a082/alembic-1.14.1-py3-none-any.whl
-annotated-types @ file:///home/nurbolat/.cache/pypoetry/artifacts/bb/01/66/49624ed11fcf662322204636d96e81d2cb8104b9710138a8a6cb4c8916/annotated_types-0.7.0-py3-none-any.whl
-anyio @ file:///home/nurbolat/.cache/pypoetry/artifacts/e3/97/8e/15bde45c908f84bbd947cc4007447d99ee283f212a547a3d77b8ded717/anyio-4.8.0-py3-none-any.whl
-cffi @ file:///home/nurbolat/.cache/pypoetry/artifacts/28/31/96/644ca384a77b95cf847214580ad0c5fe5124d51ed910ae6919055e8e41/cffi-1.17.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-click @ file:///home/nurbolat/.cache/pypoetry/artifacts/9f/d2/9d/7a10a9046a716c3850bda381ae9fca61c89893fbdcb3f6e0cbd8400498/click-8.1.8-py3-none-any.whl
-cryptography @ file:///home/nurbolat/.cache/pypoetry/artifacts/0f/8e/7b/da7ee93e2bed6ebda92fa8aa9086e4162a1e601e466345d63956b507e6/cryptography-44.0.1-cp39-abi3-manylinux_2_34_x86_64.whl
-ecdsa @ file:///home/nurbolat/.cache/pypoetry/artifacts/2e/0e/46/2e6691cca43404b7af9571bdb75e4f5b33f9752ab1b409a7a31433f709/ecdsa-0.19.0-py2.py3-none-any.whl
-exceptiongroup @ file:///home/nurbolat/.cache/pypoetry/artifacts/b5/c0/f6/65a47744b59f0bff12c278764335e8c363b9f8f963933adfaa613f0d8e/exceptiongroup-1.2.2-py3-none-any.whl
-fastapi @ file:///home/nurbolat/.cache/pypoetry/artifacts/42/fd/61/355b3d22f1b033fcf195bb05d2632b2b08dfa1436c6cb730270ba7fb9e/fastapi-0.115.8-py3-none-any.whl
-greenlet @ file:///home/nurbolat/.cache/pypoetry/artifacts/39/0f/ba/93ceb64316d9f549e721083a80d454d1e47cb586cd034304a88479beb6/greenlet-3.1.1-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
-h11 @ file:///home/nurbolat/.cache/pypoetry/artifacts/eb/11/e2/ecdc45b11204c453bc727b99c3f31388aaba3d187e49db67e37aa86e18/h11-0.14.0-py3-none-any.whl
-idna @ file:///home/nurbolat/.cache/pypoetry/artifacts/0a/f8/b1/5ea71b1041ca28dce68bb91dfad2f2f1648aa48103c58576156657025a/idna-3.10-py3-none-any.whl
-Jinja2 @ file:///home/nurbolat/.cache/pypoetry/artifacts/eb/61/03/cfb9bb73e35239a07c6a358de8c2ce74a33b3403a79fd42d7fb44b138b/jinja2-3.1.5-py3-none-any.whl
-Mako @ file:///home/nurbolat/.cache/pypoetry/artifacts/c7/f6/cb/2424ee310322b259cb75616226597dbb488dbad2d2bafbd5f2fcecd590/Mako-1.3.9-py3-none-any.whl
-MarkupSafe @ file:///home/nurbolat/.cache/pypoetry/artifacts/54/16/34/9dc660c8303e901b3915b67da790ee8eb4dcc2a6e3a385aae6cefc6cb1/MarkupSafe-3.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-passlib @ file:///home/nurbolat/.cache/pypoetry/artifacts/e4/12/50/380480ec11b34ac3a1082d2f2747f282b8731f2f7f08d8f8c17622f26c/passlib-1.7.4-py2.py3-none-any.whl
-psycopg2-binary @ file:///home/nurbolat/.cache/pypoetry/artifacts/de/fd/47/f80de32e2e1e84ecc02217111697f49c239abb7e27be3a8d29243e5ed6/psycopg2_binary-2.9.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-pyasn1 @ file:///home/nurbolat/.cache/pypoetry/artifacts/c2/76/ab/a9803cfd0691d31abaeaaf0c6477e76f673b71f11a2959d0ce3ea20775/pyasn1-0.4.8-py2.py3-none-any.whl
-pycparser @ file:///home/nurbolat/.cache/pypoetry/artifacts/2c/96/c8/824dd17f79ceac2ffadee55618dae0b2a8fb2ca8a4421e6213aea54024/pycparser-2.22-py3-none-any.whl
-pydantic @ file:///home/nurbolat/.cache/pypoetry/artifacts/e5/b2/74/4ec4614d09b8ef69b7e74d78a9b8ac7fce6611d7ba646f3e5d8621d0bf/pydantic-2.10.6-py3-none-any.whl
-pydantic_core @ file:///home/nurbolat/.cache/pypoetry/artifacts/2d/66/19/80230fbae5f9415e854b910f90c7cc1b3f7a95135b51d3f770dfe07ad2/pydantic_core-2.27.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-python-jose @ file:///home/nurbolat/.cache/pypoetry/artifacts/bb/3c/30/c440b2077ec70de790c8cd01859c5f28932c341faabb35e30091f2e7b0/python_jose-3.4.0-py2.py3-none-any.whl
-python-multipart @ file:///home/nurbolat/.cache/pypoetry/artifacts/ef/24/ab/62ed6263cc5ef8fd0177ab6fea24bc03812c0424c3153c5240f16ef38a/python_multipart-0.0.20-py3-none-any.whl
-rsa @ file:///home/nurbolat/.cache/pypoetry/artifacts/eb/14/62/72ff1f3b7573fad5dd7c7721888681551b31cea13ac5a6dc032d2f6ad7/rsa-4.2.tar.gz
-six @ file:///home/nurbolat/.cache/pypoetry/artifacts/7f/f2/1d/57446a4a3338f9d21fad942b6d0a4197cce555eef5b31977d79f33a69a/six-1.17.0-py2.py3-none-any.whl
-sniffio @ file:///home/nurbolat/.cache/pypoetry/artifacts/a3/5a/05/cd53d459bcf24e1f830f14a898cd6346f72a2a5c2a38f3dbc476889ebb/sniffio-1.3.1-py3-none-any.whl
-SQLAlchemy @ file:///home/nurbolat/.cache/pypoetry/artifacts/95/8b/ec/a59935d164b10cefbd7c19f4b31736514beb2195b1f382551fc4961200/SQLAlchemy-2.0.38-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-starlette @ file:///home/nurbolat/.cache/pypoetry/artifacts/5e/bd/c6/8d8bca18059bf617cb0a55663fd0b67c9a58f54037c81d6840c9601870/starlette-0.45.3-py3-none-any.whl
-typing_extensions @ file:///home/nurbolat/.cache/pypoetry/artifacts/39/22/40/de1ad858cb2490eb53124ad6f89105f03b4ebb4f23fc766c6b2995e583/typing_extensions-4.12.2-py3-none-any.whl
-uvicorn @ file:///home/nurbolat/.cache/pypoetry/artifacts/ff/60/81/9b9e7158f440b32a928045d9e03bc12c1c02e716df3af2e8b0448eab1d/uvicorn-0.34.0-py3-none-any.whl
+alembic==1.14.1; python_version >= "3.8"
+annotated-types==0.7.0; python_version >= "3.8"
+anyio==4.8.0; python_version >= "3.9"
+cffi==1.17.1; python_version >= "3.8" and python_full_version < "3.9.0" and platform_python_implementation != "PyPy" or python_full_version > "3.9.0" and python_full_version < "3.9.1" and platform_python_implementation != "PyPy" and python_version >= "3.8" or python_full_version > "3.9.1" and platform_python_implementation != "PyPy" and python_version >= "3.8"
+click==8.1.8; python_version >= "3.9"
+colorama==0.4.6; python_version >= "3.9" and python_full_version < "3.0.0" and platform_system == "Windows" or platform_system == "Windows" and python_version >= "3.9" and python_full_version >= "3.7.0"
+cryptography==44.0.1; python_version >= "3.7" and python_full_version < "3.9.0" or python_full_version > "3.9.0" and python_full_version < "3.9.1" or python_full_version > "3.9.1"
+ecdsa==0.19.0; python_version >= "2.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+exceptiongroup==1.2.2; python_version < "3.11" and python_version >= "3.9"
+fastapi==0.115.8; python_version >= "3.8"
+greenlet==3.1.1; python_version < "3.14" and (platform_machine == "aarch64" or platform_machine == "ppc64le" or platform_machine == "x86_64" or platform_machine == "amd64" or platform_machine == "AMD64" or platform_machine == "win32" or platform_machine == "WIN32") and python_version >= "3.8"
+h11==0.14.0; python_version >= "3.9"
+idna==3.10; python_version >= "3.9"
+jinja2==3.1.5; python_version >= "3.7"
+mako==1.3.9; python_version >= "3.8"
+markupsafe==3.0.2; python_version >= "3.9"
+passlib==1.7.4
+psycopg2-binary==2.9.10; python_version >= "3.8"
+pyasn1==0.4.8
+pycparser==2.22; python_version >= "3.8" and python_full_version < "3.9.0" and platform_python_implementation != "PyPy" or python_full_version > "3.9.0" and python_full_version < "3.9.1" and platform_python_implementation != "PyPy" and python_version >= "3.8" or python_full_version > "3.9.1" and platform_python_implementation != "PyPy" and python_version >= "3.8"
+pydantic-core==2.27.2; python_version >= "3.8"
+pydantic==2.10.6; python_version >= "3.8"
+python-jose==3.4.0
+python-multipart==0.0.20; python_version >= "3.8"
+rsa==4.2
+six==1.17.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+sniffio==1.3.1; python_version >= "3.9"
+sqlalchemy==2.0.38; python_version >= "3.7"
+starlette==0.45.3; python_version >= "3.9"
+typing-extensions==4.12.2; python_version < "3.11" and python_version >= "3.9"
+uvicorn==0.34.0; python_version >= "3.9"
