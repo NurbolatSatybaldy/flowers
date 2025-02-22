@@ -2,10 +2,9 @@ import os
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 
-# Use SQLite as the default database if no environment variable is set.
+# Use the environment variable if set; otherwise, default to SQLite.
 SQLALCHEMY_DATABASE_URL = os.environ.get("SQLALCHEMY_DATABASE_URL", "sqlite:///./flowers.db")
 
-# For SQLite, we need this extra option.
 engine = create_engine(
     SQLALCHEMY_DATABASE_URL,
     connect_args={"check_same_thread": False} if SQLALCHEMY_DATABASE_URL.startswith("sqlite") else {}
@@ -22,5 +21,5 @@ def get_db():
         db.close()
 
 def init_tables():
-    from models import Base
+    from models import Base  # Import models after Base is defined.
     Base.metadata.create_all(bind=engine)
