@@ -403,7 +403,7 @@ standard = ["colorama (>=0.4)", "httptools (>=0.6.3)", "python-dotenv (>=0.13)",
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.10"
-content-hash = "a1e332fb386c6da41d9dda445df5016621c18cde46291e82ffa98d53facf3535"
+content-hash = "c961a930468087a89e4cd9700ce1488a232639d2d738c9162319a6c8b163541a"
 
 [metadata.files]
 alembic = []
