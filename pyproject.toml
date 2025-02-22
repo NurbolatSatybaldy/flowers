@@ -6,15 +6,6 @@ authors = ["NurbolatSatybaldy <n.satybaldi2003@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.10"
-fastapi = "^0.115.8"
-uvicorn = "^0.34.0"
-SQLAlchemy = "^2.0.38"
-alembic = "^1.14.1"
-psycopg2-binary = "^2.9.10"
-python-jose = {extras = ["cryptography"], version = "^3.4.0"}
-passlib = "^1.7.4"
-python-multipart = "^0.0.20"
-Jinja2 = "^3.1.5"
 
 [tool.poetry.dev-dependencies]
 
